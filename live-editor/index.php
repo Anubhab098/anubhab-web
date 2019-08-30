@@ -1,0 +1,1 @@
+header("Location: https://anubhab-services.000webhostapp.com/live-editor/index.html");
